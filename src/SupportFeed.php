@@ -31,9 +31,7 @@ class SupportFeed {
 	}
 
 	public function topics_and_replies() {
-		$replies = [
-			$this->feed(),
-		];
+		$replies = [];
 
 		foreach ( $this->items() as $topic ) {
 			$replies[] = fetch_feed( sprintf( '%sfeed/', $topic->get_link() ) );
