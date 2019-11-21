@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <ruleset name="Support Pilot Coding Standards">
-	<rule ref="WordPressVIPMinimum" />
+	<rule ref="WordPressVIPMinimum">
+		<exclude name="WordPress.WP.TimezoneChange" /><!-- While Automattic removes it from their ruleset. -->
+	</rule>
 
 	<file>plugin.php</file>
 	<file>src</file>
