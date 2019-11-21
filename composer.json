@@ -1,5 +1,5 @@
 {
-  "name": "kasparsd/support-pilot",
+  "name": "kasparsd/support-pilot-plugin",
   "description": "RSS feeds for WordPress plugin and theme support forum replies",
   "type": "wordpress-plugin",
   "authors": [
