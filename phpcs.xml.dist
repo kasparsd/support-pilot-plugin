@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ruleset name="Support Pilot Coding Standards">
+	<rule ref="WordPressVIPMinimum" />
+
+	<file>plugin.php</file>
+	<file>src</file>
+
+	<arg name="extensions" value="php" />
+	<arg name="colors" />
+	<arg value="s" /><!-- Show sniff codes in all reports. -->
+
+	<exclude-pattern>/vendor</exclude-pattern>
+	<exclude-pattern>/node_modules</exclude-pattern>
+</ruleset>
