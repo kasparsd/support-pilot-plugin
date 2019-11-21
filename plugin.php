@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP.org Support Feeds
+ * Plugin Name: WP.org Support Pilot
  * Plugin URI: https://github.com/kasparsd/support-pilot-plugin
  * Description: RSS feeds for WordPress plugin and theme support forum replies
  * Author: Kaspars Dambis
