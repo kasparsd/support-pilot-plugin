@@ -1,12 +1,13 @@
 <?php
 /**
- * Plugin Name: WP.org Support Pilot
- * Plugin URI: https://github.com/kasparsd/support-pilot-plugin
- * Description: RSS feeds for WordPress plugin and theme support forum replies
- * Author: Kaspars Dambis
- * Author URI: https://kaspars.net
- * Version: 0.1.0
- * License: GPLv2 or later
+ * Plugin Name:       WP.org Support Pilot
+ * Plugin URI:        https://github.com/kasparsd/support-pilot-plugin
+ * Description:       RSS feeds for WordPress plugin and theme support forum replies.
+ * Author:            Kaspars Dambis
+ * Author URI:        https://kaspars.net
+ * Version:           0.1.0
+ * License:           GPLv2 or later
+ * License URIL:      https://www.gnu.org/licenses/gpl-2.0.html
  */
 
 use Preseto\SupportPilot\PluginController;
