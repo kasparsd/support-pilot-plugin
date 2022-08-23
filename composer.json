@@ -2,6 +2,9 @@
   "name": "kasparsd/support-pilot-plugin",
   "description": "RSS feeds for WordPress plugin and theme support forum replies",
   "type": "wordpress-plugin",
+  "homepage": "https://github.com/kasparsd/support-pilot-plugin",
+  "readme": "https://github.com/kasparsd/support-pilot-plugin/blob/master/readme.md",
+  "license": "GPL-2.0-or-later",
   "authors": [
     {
       "name": "Kaspars Dambis",
