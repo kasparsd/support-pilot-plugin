@@ -2,7 +2,7 @@
 
 > A WordPress plugin to build RSS feeds of plugin and theme support topics and replies until WP.org meta ticket [#4867](https://meta.trac.wordpress.org/ticket/4867) is merged.
 
-[![Build Status](https://travis-ci.com/kasparsd/support-pilot.svg?branch=master)](https://travis-ci.com/kasparsd/support-pilot)
+[![Build Status](https://travis-ci.com/kasparsd/support-pilot.svg?branch=master)](https://travis-ci.com/kasparsd/support-pilot) [![GPLv2 License](https://img.shields.io/github/license/kasparsd/support-pilot-plugin.svg)](https://github.com/kasparsd/support-pilot-plugin/blob/master/LICENSE.md)
 
 ## Overview
 
